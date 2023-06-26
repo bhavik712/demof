@@ -1,3 +1,4 @@
 <?php
- echo "New file";
+ echo "New file\n";
+ echo "New file3";
 ?>
